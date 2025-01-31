@@ -1,3 +1,4 @@
+start cmd
 @echo off
 setlocal EnableDelayedExpansion
 chcp 65001 >nul
